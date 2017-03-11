@@ -1,0 +1,48 @@
+
+
+
+《Climbing Peak》
+
+Game design document
+
+members：Xiaoyu Guo
+          Kai Xiao 
+ 
+
+
+
+1． Summary
+1.1 objective
+The goal of the game is very simple: through the collaboration from three people, 
+triggering the top of the floor, into a higher level, up to the peak.
+1.2 introduction
+《Climbing Peak》is a multiplayer online game. Currently There are few such games
+on the market. Three players need to work closely together to trigger the top of
+the floor. One person is impossible to access the goal.Currently, the major application
+market has a number of online confrontation or card games, but there is no multiplayer 
+online collaboration game. Therefore, this game not only played a role in entertainment,
+but also played a role in social contact. There are few such games on the market
+1.3 type
+Action game, the typical pass game with the story of RPG at the same time.
+1.4 Using the platform and the minimum configuration
+System：Android4.0 and above
+The minimum configuration：512M RAM
+1.5 Target player
+Allow players to experience the pleasure of online collaboration, through cooperation 
+to achieve the goal. In this process the player should give full play to the cooperation,
+leadership, execution and other ability to access the goal.
+2 Game structure
+2.1 Core gameplay
+Actually, the game is played by three players online. In different floors, they will meet 
+the different heights of the floor and a variety of obstacles, they need to be overcome 
+one by one to get the top.
+2.2 game mode
+2.2.1 load phase
+The server will make team of three people randomly, the three plyers must cooperate closely 
+to access the goal for each level. So, they can access the next floor.
+2.2.2 Execution phase
+Players through cooperation, as well as different talent (bounce, power, speed) to access 
+the goal.
+2.3 the map of the game
+The game map is divided into two parts, one is the underground part, the other is on the ground.
+

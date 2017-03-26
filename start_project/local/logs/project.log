@@ -1,0 +1,51 @@
+2017-03-23T05:04:08.563Z - normal: Load ~/.CocosCreator/settings.json
+2017-03-23T05:04:08.563Z - normal: checking language setting...
+2017-03-23T05:04:08.563Z - normal: Language: zh
+2017-03-23T05:04:09.899Z - success: protocol editor-framework registered
+2017-03-23T05:04:09.899Z - success: protocol app registered
+2017-03-23T05:04:09.899Z - success: protocol theme registered
+2017-03-23T05:04:09.899Z - success: protocol profile registered
+2017-03-23T05:04:09.899Z - success: protocol packages registered
+2017-03-23T05:04:09.899Z - success: protocol unpack registerred
+2017-03-23T05:04:09.899Z - success: protocol disable-commonjs registerred
+2017-03-23T05:04:10.015Z - normal: connected!
+2017-03-23T05:04:10.031Z - normal: Check project C:\Users\gxytk\Documents\start_project
+2017-03-23T05:04:10.031Z - normal: Initializing Cocos2d
+2017-03-23T05:04:10.178Z - normal: Initializing Asset Database
+2017-03-23T05:04:10.194Z - success: protocol uuid registerred
+2017-03-23T05:04:10.194Z - success: protocol db registerred
+2017-03-23T05:04:10.194Z - success: protocol thumbnail registerred
+2017-03-23T05:04:10.194Z - normal: Loading editor/builtin packages
+2017-03-23T05:04:10.294Z - success: assets loaded
+2017-03-23T05:04:10.294Z - success: builder loaded
+2017-03-23T05:04:10.294Z - success: hierarchy loaded
+2017-03-23T05:04:10.294Z - success: inspector loaded
+2017-03-23T05:04:10.294Z - success: keystore loaded
+2017-03-23T05:04:10.294Z - success: node-library loaded
+2017-03-23T05:04:10.294Z - success: preferences loaded
+2017-03-23T05:04:10.316Z - success: project-importer loaded
+2017-03-23T05:04:10.316Z - success: project-settings loaded
+2017-03-23T05:04:10.316Z - success: ui-kit loaded
+2017-03-23T05:04:10.316Z - success: ui-grid loaded
+2017-03-23T05:04:10.316Z - success: scene loaded
+2017-03-23T05:04:10.316Z - success: sprite-editor loaded
+2017-03-23T05:04:10.347Z - success: store loaded
+2017-03-23T05:04:10.363Z - success: timeline loaded
+2017-03-23T05:04:10.363Z - normal: Loading builtin packages
+2017-03-23T05:04:10.363Z - success: anysdk loaded
+2017-03-23T05:04:10.363Z - success: asset-db-debugger loaded
+2017-03-23T05:04:10.363Z - success: code-editor loaded
+2017-03-23T05:04:10.363Z - success: color-picker loaded
+2017-03-23T05:04:10.363Z - success: console loaded
+2017-03-23T05:04:10.363Z - success: package-manager loaded
+2017-03-23T05:04:10.363Z - success: tester loaded
+2017-03-23T05:04:10.363Z - success: ui-kit-preview-extra loaded
+2017-03-23T05:04:10.363Z - success: ui-kit-preview loaded
+2017-03-23T05:04:10.379Z - success: ui-tree loaded
+2017-03-23T05:04:10.416Z - normal: Initializing project C:\Users\gxytk\Documents\start_project
+2017-03-23T05:04:10.416Z - normal: Loading packages
+2017-03-23T05:04:10.416Z - normal: Watching packages
+2017-03-23T05:04:10.432Z - normal: Run Application
+2017-03-23T05:04:10.698Z - success: preview server running at http://localhost:7456
+2017-03-23T05:04:14.278Z - normal: 1.4.0
+2017-03-23T06:32:43.473Z - info: shutdown preview server
